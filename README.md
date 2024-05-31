@@ -38,9 +38,12 @@ Here are some of the technologies and tools I work with:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
-## 📈 GitHub Stats
+
+
+<!-- ## 📈 GitHub Stats
 ![Abubakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamoliddinovabubakr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamoliddinovabubakr&layout=compact&theme=radical)
+-->
 
 ## 📫 How to reach me
 - LinkedIn: [Abubakr Jamoliddinov](https://www.linkedin.com/in/jamoliddinovabubakr/)
