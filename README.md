@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Abubakr Jamoliddinov! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamoliddinovabubakr&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=jamoliddinovabubakr&color=blue) -->
+
 
 ## 🚀 About Me
 I'm a passionate software developer with a love for creating elegant and efficient solutions. I enjoy working on innovative projects and continuously learning new technologies. Whether it's web development, mobile apps, or open source contributions, I'm always eager to take on new challenges.
