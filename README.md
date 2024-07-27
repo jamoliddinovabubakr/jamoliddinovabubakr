@@ -47,7 +47,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 How to reach me
 - LinkedIn: [Abubakr Jamoliddinov](https://www.linkedin.com/in/jamoliddinovabubakr/)
-- Email: [abubakr.jamoliddinov@example.com](mailto:abubakr.jamoliddinov@example.com)
+- Email: [j.abubakr.jab@gmail.com](mailto:j.abubakr.jab.com)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
