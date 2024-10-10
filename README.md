@@ -28,12 +28,12 @@ I'm a passionate software developer with a love for creating elegant and efficie
 Here are some of the technologies and tools I work with:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
