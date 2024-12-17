@@ -6,7 +6,7 @@ I’m a passionate **backend developer** with a focus on building scalable, reli
 I am passionate about building systems that perform well at scale and ensure clean, maintainable code. I am always exploring new technologies to enhance my backend development skills.
 
 ## 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcode.com/u/Jamoliddinov_Abubakr/)(https://leetcode.com/u/Jamoliddinov_Abubakr/)
+[![LeetCode Stats](https://leetcode.com/u/Jamoliddinov_Abubakr/)](https://leetcode.com/u/Jamoliddinov_Abubakr/)
 
 ## 🔧 Technologies & Tools
 Here are the tools and technologies I use to build powerful and efficient backend systems:
