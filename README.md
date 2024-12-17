@@ -82,13 +82,3 @@ If you like my work and would like to support me, consider buying me a coffee! Y
 ---
 
 *This README was created with ❤️ by [Abubakr Jamoliddinov](https://github.com/jamoliddinovabubakr)*
-
----
-
-### What You Need to Do:
-1. Replace `your-username` in the URL `https://leetcode.card.workers.dev/?username=your-username` with your actual LeetCode username.
-2. You will now see your LeetCode stats appear on your profile.
-
-By doing this, you will showcase your coding journey and achievements on **LeetCode**, making your GitHub README more dynamic and interesting!
-
-Let me know if you'd like further help with the integration or customization!
