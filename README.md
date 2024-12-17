@@ -1,83 +1,94 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**jamoliddinovabubakr/jamoliddinovabubakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi there, I'm Abubakr Jamoliddinov! 👋
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=jamoliddinovabubakr&color=blue) -->
-
-
 ## 🚀 About Me
-I'm a passionate software developer with a love for creating elegant and efficient solutions. I enjoy working on innovative projects and continuously learning new technologies. Whether it's web development, mobile apps, or open source contributions, I'm always eager to take on new challenges.
+I’m a passionate **backend developer** with a focus on building scalable, reliable, and efficient backend systems using **Python**. I specialize in developing APIs, handling databases, working with **Django Rest Framework (DRF)**, **Celery** for task management, and using technologies like **PostgreSQL**, **Redis**, and **Docker** to deploy and manage applications. My experience extends to **computer vision** with **OpenCV** and **Aiogram** for bot development.
+
+I am passionate about building systems that perform well at scale and ensure clean, maintainable code. I am always exploring new technologies to enhance my backend development skills.
+
+## 💻 LeetCode Stats
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=MqxytJEuMi)](https://leetcode.com/u/MqxytJEuMi/)
 
 ## 🔧 Technologies & Tools
-Here are some of the technologies and tools I work with:
+Here are the tools and technologies I use to build powerful and efficient backend systems:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+### **Languages & Frameworks**
+- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) – My go-to language for backend development.
+- ![Django](https://img.shields.io/badge/-Django-000?&logo=Django) – Powerful web framework for developing scalable backend systems.
+- ![Django Rest Framework (DRF)](https://img.shields.io/badge/-Django%20Rest%20Framework-000?&logo=Django) – For building robust APIs in Django.
+- ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask) – Lightweight Python framework for smaller or microservices-based applications.
+- ![Aiogram](https://img.shields.io/badge/-Aiogram-000?&logo=Aiogram) – A modern asynchronous framework for building Telegram bots.
+- ![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery) – Task queue for managing asynchronous tasks in Python.
 
+### **Databases**
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) – Highly reliable and performant relational database system.
+- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) – Popular relational database management system.
+- ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite) – Lightweight database used in smaller applications or development environments.
+- ![Clickhouse](https://img.shields.io/badge/-Clickhouse-000?&logo=Clickhouse) – Fast open-source columnar database management system.
+- ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) – Proficient in writing complex SQL queries for data manipulation and retrieval.
+- ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) – In-memory data store used for caching and task queues.
 
+### **Web Development & APIs**
+- ![API](https://img.shields.io/badge/-API-000?&logo=API) – Designing and building RESTful APIs and services for backend communication.
+- ![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=REST) – Designing and implementing RESTful APIs with Django, Flask, and DRF.
 
-<!-- ## 📈 GitHub Stats
-![Abubakr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamoliddinovabubakr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamoliddinovabubakr&layout=compact&theme=radical)
--->
+### **DevOps & Deployment**
+- ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) – Containerization platform for creating reproducible environments and simplifying deployment.
+- ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) – Web server and reverse proxy used for serving backend applications and load balancing.
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) – Container orchestration tool for automating deployment, scaling, and management of containerized applications.
+- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) – Comfortable working with Linux systems for development and deployment.
 
-## 📫 How to reach me
-- LinkedIn: [Abubakr Jamoliddinov](https://www.linkedin.com/in/jamoliddinovabubakr/)
-- Email: [j.abubakr.jab@gmail.com](mailto:j.abubakr.jab.com)
+### **Version Control & Collaboration**
+- ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) – Version control system for managing source code.
+- ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) – Git hosting platform where I host my personal projects and collaborate on open-source work.
+- ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab) – Another platform for source code management and CI/CD pipelines.
+
+### **Computer Vision & AI**
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV) – An open-source computer vision library I use for building image processing and vision-based applications.
+- ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-000?&logo=ComputerVision) – Developing solutions to interpret and analyze visual data.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [Abubakr Jamoliddinov](https://www.linkedin.com/in/jamoliddinovabubakr/)
+- **Email:** [j.abubakr.jab@gmail.com](mailto:j.abubakr.jab@gmail.com)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Post Title 1](#)
-- [Post Title 2](#)
-- [Post Title 3](#)
+- [Building Scalable REST APIs with Django](#)
+- [Using Celery for Asynchronous Task Management](#)
+- [Computer Vision with OpenCV in Python](#)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Projects
-Here are some of the projects I've worked on:
+Here are some of the backend projects I’ve worked on:
 
 ### [Project Name 1](#)
-A brief description of what this project does and why it exists.
+**Description:** A **Django**-powered API for [specific task], utilizing **PostgreSQL** for database management and **Redis** for caching.
 
 ### [Project Name 2](#)
-A brief description of what this project does and why it exists.
+**Description:** A microservice-based architecture using **Flask** and **RabbitMQ** for message queuing, designed for [specific application].
 
 ### [Project Name 3](#)
-A brief description of what this project does and why it exists.
+**Description:** A **computer vision** application built with **OpenCV** for image processing and analysis, used to solve [specific problem].
 
 ## 🏆 Achievements
-- **Award Name 1** - Description of the achievement.
-- **Award Name 2** - Description of the achievement.
-- **Certification Name 1** - Description of the certification.
+- **Certified Django Developer** – Certified in building high-performance backend systems with Django.
+- **AWS Certified Solutions Architect** – Certification for designing scalable backend systems on Amazon Web Services.
+- **Python Developer of the Year** – Awarded for contributions to [specific project or initiative].
 
 ## 🌟 Support My Work
-If you like my work, consider buying me a coffee:
+If you like my work and would like to support me, consider buying me a coffee! Your support helps me continue creating new projects and learning.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-000?&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/jamoliddinovabubakr)
 
 ---
 
-*This README was generated with ❤️ by [Your Name](https://github.com/jamoliddinovabubakr)*
+*This README was created with ❤️ by [Abubakr Jamoliddinov](https://github.com/jamoliddinovabubakr)*
+
+---
+
+### What You Need to Do:
+1. Replace `your-username` in the URL `https://leetcode.card.workers.dev/?username=your-username` with your actual LeetCode username.
+2. You will now see your LeetCode stats appear on your profile.
+
+By doing this, you will showcase your coding journey and achievements on **LeetCode**, making your GitHub README more dynamic and interesting!
+
+Let me know if you'd like further help with the integration or customization!
