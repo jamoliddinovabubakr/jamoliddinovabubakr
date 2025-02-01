@@ -5,8 +5,6 @@ I’m a passionate **backend developer** with a focus on building scalable, reli
 
 I am passionate about building systems that perform well at scale and ensure clean, maintainable code. I am always exploring new technologies to enhance my backend development skills.
 
-## 💻 LeetCode Stats
-
 ## 🔧 Technologies & Tools
 Here are the tools and technologies I use to build powerful and efficient backend systems:
 
@@ -48,13 +46,5 @@ Here are the tools and technologies I use to build powerful and efficient backen
 ## 📫 How to Reach Me
 - **LinkedIn:** [Abubakr Jamoliddinov](https://www.linkedin.com/in/jamoliddinovabubakr/)
 - **Email:** [j.abubakr.jab@gmail.com](mailto:j.abubakr.jab@gmail.com)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable REST APIs with Django](#)
-- [Using Celery for Asynchronous Task Management](#)
-- [Computer Vision with OpenCV in Python](#)
-<!-- BLOG-POST-LIST:END -->
----
 
 *This README was created with ❤️ by [Abubakr Jamoliddinov](https://github.com/jamoliddinovabubakr)*
